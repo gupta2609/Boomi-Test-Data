@@ -1,0 +1,81 @@
+{
+"Employees" : [
+{
+"userId":"rirani",
+"jobTitleName":"Developer",
+"firstName":"Romin",
+"lastName":"Irani",
+"preferredFullName":"Romin Irani",
+"employeeCode":"E1",
+"region":"FL",
+"phoneNumber":"408-1234567",
+"emailAddress":"romin.k.irani@gmail.com"
+},
+{
+"userId":"nirani",
+"jobTitleName":"Developer",
+"firstName":"Neil",
+"lastName":"Irani",
+"preferredFullName":"Neil Irani",
+"employeeCode":"E2",
+"region":"FL",
+"phoneNumber":"408-1111111",
+"emailAddress":"neilrirani@gmail.com"
+},
+{
+"userId":"thanks",
+"jobTitleName":"Program Directory",
+"firstName":"Tom",
+"lastName":"Hanks",
+"preferredFullName":"Tom Hanks",
+"employeeCode":"E3",
+"region":"TX",
+"phoneNumber":"408-2222222",
+"emailAddress":"tomhanks@gmail.com"
+},
+{
+"userId":"jsmith",
+"jobTitleName":"Senior Developer",
+"firstName":"John",
+"lastName":"Smith",
+"preferredFullName":"John Smith",
+"employeeCode":"E4",
+"region":"NY",
+"phoneNumber":"408-2222222",
+"emailAddress":"jsmith@gmail.com"
+},
+{
+"userId":"mwilson",
+"jobTitleName":"Senior Developer",
+"firstName":"Michael",
+"lastName":"Wilson",
+"preferredFullName":"Michael Wilson",
+"employeeCode":"E5",
+"region":"NY",
+"phoneNumber":"408-2222222",
+"emailAddress":"mwilson@gmail.com"
+},
+{
+"userId":"rbrown",
+"jobTitleName":"Senior Analyst",
+"firstName":"Robert",
+"lastName":"Brown",
+"preferredFullName":"Robert Brown",
+"employeeCode":"E5",
+"region":"AZ",
+"phoneNumber":"408-2222222",
+"emailAddress":"rbrown@gmail.com"
+}, 
+{
+"userId":,
+"jobTitleName":"Data Engineer",
+"firstName":"Robert",
+"lastName":"Brown",
+"preferredFullName":"Robert Brown",
+"employeeCode":"E5",
+"region":"AZ",
+"phoneNumber":"408-2222222",
+"emailAddress":"rbrown@gmail.com"
+}
+]
+}
